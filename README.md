@@ -57,7 +57,7 @@ Then open the provided output local host in your browser.
 
 ### Project Structure
 
-'''
+```
 
 online-library-system/
 ├── public/                 # Static files and index.html
@@ -79,7 +79,7 @@ online-library-system/
 ├── package.json
 └── README.md
 
-'''
+```
 
 ### Styling
 Component-specific CSS files enable modular and creative styling (e.g., BookDetails.css)
