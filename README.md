@@ -49,9 +49,11 @@ cd online-library-system
 
 npm install
 
-Running the Application
-Start the development server:
-npm start
+## Running the Application
+
+## Start the development server:
+
+npm run dev
 
 Then open the provided output local host in your browser. 
 
